@@ -58,4 +58,4 @@
     * [Threejs官方文档-入门-（5）画线](https://github.com/forthealllight/learn-threejs/blob/master/demo5.md)，[demo地址](https://github.com/forthealllight/learn-threejs/blob/master/demo/demo5.html)
     * [渲染器、场景和照相机简介](https://github.com/forthealllight/learn-threejs/blob/master/demo6.md)
     * [照相机详细介绍](https://github.com/forthealllight/learn-threejs/blob/master/demo7.md)
- * [几何形状](https://github.com/forthealllight/learn-threejs/blob/master/demo8.md)
+    * [几何形状](https://github.com/forthealllight/learn-threejs/blob/master/demo8.md)
