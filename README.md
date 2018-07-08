@@ -44,3 +44,7 @@
     * [RxJS入门——基础操作指北](https://github.com/forthealllight/blog/issues/3)
     * [React内部原理，第一部分：基础渲染 ](https://github.com/forthealllight/blog/issues/1)
     * [React内部原理，第二部分： componentWillMount and componentDidMount](https://github.com/forthealllight/blog/issues/2)
+    
+* 构建工具
+    * [Webpack4.0初体验](https://github.com/forthealllight/blog/issues/9)
+    * [Webpack中的sourcemap以及如何在生产和开发环境中合理的设置sourcemap的类型](https://github.com/forthealllight/blog/issues/6)
