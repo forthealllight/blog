@@ -15,5 +15,5 @@
 
 ## 最新2篇文章
 
- - (彻彻底底教会你使用Redux-saga(包含样例代码))[https://github.com/forthealllight/blog/issues/14]
- - (响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh）)[https://github.com/forthealllight/blog/issues/13]
+ - [彻彻底底教会你使用Redux-saga(包含样例代码)](https://github.com/forthealllight/blog/issues/14)
+ - [响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh)](https://github.com/forthealllight/blog/issues/13)
