@@ -15,10 +15,11 @@
 
 ## 🌱 最新2篇文章
 
- - [彻彻底底教会你使用Redux-saga(包含样例代码)](https://github.com/forthealllight/blog/issues/14)
- 
  - [循序渐进教你实现一个完整的node的EventEmitter模块](https://github.com/forthealllight/blog/issues/21)
 
+ - [彻彻底底教会你使用Redux-saga(包含样例代码)](https://github.com/forthealllight/blog/issues/14)
+ 
+ 
 ## 🌱 历史文章列表
 * Css/Css3
     * [响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh）](https://github.com/forthealllight/blog/issues/13)
@@ -46,7 +47,7 @@
     * [React内部原理，第二部分： componentWillMount and componentDidMount](https://github.com/forthealllight/blog/issues/2)
     
 * Nodejs
-    * [循序渐进教你实现一个完整的node的EventEmitter模块)](https://github.com/forthealllight/blog/issues/21)
+    * [循序渐进教你实现一个完整的node的EventEmitter模块](https://github.com/forthealllight/blog/issues/21)
     
 * 构建工具
     * [Webpack4.0初体验](https://github.com/forthealllight/blog/issues/9)
