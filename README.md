@@ -17,7 +17,7 @@
 
  - [彻彻底底教会你使用Redux-saga(包含样例代码)](https://github.com/forthealllight/blog/issues/14)
  
- - [循序渐进教你实现一个完整的node的EventEmitter模块)](https://github.com/forthealllight/blog/issues/21)
+ - [循序渐进教你实现一个完整的node的EventEmitter模块](https://github.com/forthealllight/blog/issues/21)
 
 ## 🌱 历史文章列表
 * Css/Css3
