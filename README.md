@@ -14,11 +14,10 @@
 > * 其他
 
 ## 🌱 最新2篇文章
-
+ - [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
+ 
  - [循序渐进教你实现一个完整的node的EventEmitter模块](https://github.com/forthealllight/blog/issues/21)
 
- - [彻彻底底教会你使用Redux-saga(包含样例代码)](https://github.com/forthealllight/blog/issues/14)
- 
  
 ## 🌱 历史文章列表
 * Css/Css3
@@ -27,8 +26,9 @@
     * [前端实现弹幕效果的方法总结(包含css3和canvas的实现方式)](https://github.com/forthealllight/blog/issues/17)
     
 
-
 * JS/ES6/ES.next
+    * [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
+    
     * [手把手教你实现json嵌套对象的范式化和反范式化](https://github.com/forthealllight/blog/issues/12)
     
     * [实现一个完美符合Promise/A+规范的Promise](https://github.com/forthealllight/blog/issues/4)
