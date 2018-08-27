@@ -14,10 +14,9 @@
 > * 其他
 
 ## 🌱 最新2篇文章
- - [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
+ - [nodejs中的子进程，深入解析child_process模块和cluster模块](https://github.com/forthealllight/blog/issues/24)
  
- - [循序渐进教你实现一个完整的node的EventEmitter模块](https://github.com/forthealllight/blog/issues/21)
-
+ - [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
  
 ## 🌱 历史文章列表
 * Css/Css3
@@ -48,6 +47,7 @@
     
 * Nodejs
     * [循序渐进教你实现一个完整的node的EventEmitter模块](https://github.com/forthealllight/blog/issues/21)
+    * [nodejs中的子进程，深入解析child_process模块和cluster模块](https://github.com/forthealllight/blog/issues/24)
     
 * 构建工具
     * [Webpack4.0初体验](https://github.com/forthealllight/blog/issues/9)
