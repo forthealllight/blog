@@ -14,10 +14,11 @@
 > * 其他
 
 ## 🌱 最新2篇文章
+ - [从路由原理出发，深入阅读理解react-router 4.0的源码](https://github.com/forthealllight/blog/issues/26)
+ 
  - [nodejs中的子进程，深入解析child_process模块和cluster模块](https://github.com/forthealllight/blog/issues/24)
  
- - [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
- 
+
 ## 🌱 历史文章列表
 * Css/Css3
     * [响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh）](https://github.com/forthealllight/blog/issues/13)
@@ -37,6 +38,7 @@
     * [总结一下ES6/ES7中promise、generator和async/await中的异常捕获方法](https://github.com/forthealllight/blog/issues/16)
     
 * React/Redux/Mobx/RxJS
+    * [从路由原理出发，深入阅读理解react-router 4.0的源码)](https://github.com/forthealllight/blog/issues/26)
     * [彻彻底底教会你使用Redux-saga(包含样例代码)](https://github.com/forthealllight/blog/issues/14)
     * [React16.x中的服务端渲染（SSR）](https://github.com/forthealllight/blog/issues/7)
     * [Redux源码深度解读 ](https://github.com/forthealllight/blog/issues/10)
