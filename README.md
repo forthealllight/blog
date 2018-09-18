@@ -38,7 +38,7 @@
     * [总结一下ES6/ES7中promise、generator和async/await中的异常捕获方法](https://github.com/forthealllight/blog/issues/16)
     
 * React/Redux/Mobx/RxJS
-    * [从路由原理出发，深入阅读理解react-router 4.0的源码)](https://github.com/forthealllight/blog/issues/26)
+    * [从路由原理出发，深入阅读理解react-router 4.0的源码](https://github.com/forthealllight/blog/issues/26)
     * [彻彻底底教会你使用Redux-saga(包含样例代码)](https://github.com/forthealllight/blog/issues/14)
     * [React16.x中的服务端渲染（SSR）](https://github.com/forthealllight/blog/issues/7)
     * [Redux源码深度解读 ](https://github.com/forthealllight/blog/issues/10)
