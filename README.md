@@ -13,10 +13,12 @@
 > * 构建工具
 > * 其他
 
+
 ## 🌱 最新2篇文章
- - [从路由原理出发，深入阅读理解react-router 4.0的源码](https://github.com/forthealllight/blog/issues/26)
+
+ - [发布一个react组件——react-read-pdf，用于在移动端展示PDF文件](https://github.com/forthealllight/blog/issues/27)
  
- - [nodejs中的子进程，深入解析child_process模块和cluster模块](https://github.com/forthealllight/blog/issues/24)
+ - [从路由原理出发，深入阅读理解react-router 4.0的源码](https://github.com/forthealllight/blog/issues/26)
  
 
 ## 🌱 历史文章列表
@@ -38,6 +40,8 @@
     * [总结一下ES6/ES7中promise、generator和async/await中的异常捕获方法](https://github.com/forthealllight/blog/issues/16)
     
 * React/Redux/Mobx/RxJS
+
+    * [发布一个react组件——react-read-pdf，用于在移动端展示PDF文件](https://github.com/forthealllight/blog/issues/27)
     * [从路由原理出发，深入阅读理解react-router 4.0的源码](https://github.com/forthealllight/blog/issues/26)
     * [彻彻底底教会你使用Redux-saga(包含样例代码)](https://github.com/forthealllight/blog/issues/14)
     * [React16.x中的服务端渲染（SSR）](https://github.com/forthealllight/blog/issues/7)
