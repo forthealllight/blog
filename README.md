@@ -16,7 +16,7 @@
 
 ## 🌱 最新2篇文章
 
- - [发布一个react组件——react-read-pdf，用于在移动端展示PDF文件](https://github.com/forthealllight/blog/issues/27)
+ - [从mixin到hooks,谈谈对16.7.0-alpha中即将引入的hooks的理解](https://github.com/forthealllight/blog/issues/29)](https://github.com/forthealllight/blog/issues/29)
  
  - [从路由原理出发，深入阅读理解react-router 4.0的源码](https://github.com/forthealllight/blog/issues/26)
  
@@ -40,7 +40,7 @@
     * [总结一下ES6/ES7中promise、generator和async/await中的异常捕获方法](https://github.com/forthealllight/blog/issues/16)
     
 * React/Redux/Mobx/RxJS
-
+    * [从mixin到hooks,谈谈对16.7.0-alpha中即将引入的hooks的理解](https://github.com/forthealllight/blog/issues/29)
     * [发布一个react组件——react-read-pdf，用于在移动端展示PDF文件](https://github.com/forthealllight/blog/issues/27)
     * [从路由原理出发，深入阅读理解react-router 4.0的源码](https://github.com/forthealllight/blog/issues/26)
     * [彻彻底底教会你使用Redux-saga(包含样例代码)](https://github.com/forthealllight/blog/issues/14)
