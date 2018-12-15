@@ -16,9 +16,9 @@
 
 ## 🌱 最新2篇文章
 
- - [在React项目中，如何优雅的优化长列表](https://github.com/forthealllight/blog/issues/31)
+ - [聊聊Typescript中的设计模式——装饰器篇(decorators)](https://github.com/forthealllight/blog/issues/33)
 
- - [从mixin到hooks,谈谈对16.7.0-alpha中即将引入的hooks的理解](https://github.com/forthealllight/blog/issues/29)
+ - [在React项目中，如何优雅的优化长列表](https://github.com/forthealllight/blog/issues/31)
  
 
 ## 🌱 历史文章列表
@@ -39,6 +39,9 @@
     * [从promise、process.nextTick、setTimeout出发，谈谈Event Loop中的Job queue](https://github.com/forthealllight/blog/issues/5)
     
     * [总结一下ES6/ES7中promise、generator和async/await中的异常捕获方法](https://github.com/forthealllight/blog/issues/16)
+    
+    * [聊聊Typescript中的设计模式——装饰器篇(decorators)](https://github.com/forthealllight/blog/issues/33)
+    
     
 * React/Redux/Mobx/RxJS
 
