@@ -16,10 +16,10 @@
 
 ## 🌱 最新2篇文章
 
+ - [golang学习笔记（二）—— 深入golang中的协程](https://github.com/forthealllight/blog/issues/36)
+
  - [golang学习笔记（一）——golang基础和相关数据结构](https://github.com/forthealllight/blog/issues/30)
  
- - [聊聊Typescript中的设计模式——装饰器篇(decorators)](https://github.com/forthealllight/blog/issues/33)
-
 ## 🌱 历史文章列表
 * Css/Css3
 
@@ -64,7 +64,8 @@
     
 * golang
 
-    * [golang学习笔记（一）——golang基础和相关数据结构](https://github.com/forthealllight/blog/issues/30)
+    * [golang学习笔记（二）—— 深入golang中的协程](https://github.com/forthealllight/blog/issues/36)
+    * [golang学习笔记（一）—— golang基础和相关数据结构](https://github.com/forthealllight/blog/issues/30)
     
 * 构建工具
 
