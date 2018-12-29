@@ -16,10 +16,10 @@
 
 ## 🌱 最新2篇文章
 
- - [golang学习笔记（二）—— 深入golang中的协程](https://github.com/forthealllight/blog/issues/36)
+  - [在单页应用中，如何优雅的监听url的变化](https://github.com/forthealllight/blog/issues/37)
 
- - [golang学习笔记（一）——golang基础和相关数据结构](https://github.com/forthealllight/blog/issues/30)
- 
+  - [golang学习笔记（二）—— 深入golang中的协程](https://github.com/forthealllight/blog/issues/36)
+
 ## 🌱 历史文章列表
 * Css/Css3
 
@@ -36,6 +36,8 @@
     * [实现一个完美符合Promise/A+规范的Promise](https://github.com/forthealllight/blog/issues/4)
     
     * [从promise、process.nextTick、setTimeout出发，谈谈Event Loop中的Job queue](https://github.com/forthealllight/blog/issues/5)
+    
+    * [在单页应用中，如何优雅的监听url的变化](https://github.com/forthealllight/blog/issues/37)
     
     * [总结一下ES6/ES7中promise、generator和async/await中的异常捕获方法](https://github.com/forthealllight/blog/issues/16)
     
