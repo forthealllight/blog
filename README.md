@@ -16,9 +16,10 @@
 
 ## 🌱 最新2篇文章
 
+  - [在单页应用中，前端如何优雅的上报性能监控数据](https://github.com/forthealllight/blog/issues/38)
+
   - [在单页应用中，如何优雅的监听url的变化](https://github.com/forthealllight/blog/issues/37)
 
-  - [golang学习笔记（二）—— 深入golang中的协程](https://github.com/forthealllight/blog/issues/36)
 
 ## 🌱 历史文章列表
 * Css/Css3
@@ -31,13 +32,15 @@
 
     * [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
     
+    * [在单页应用中，前端如何优雅的上报性能监控数据](https://github.com/forthealllight/blog/issues/38)
+    
+    * [在单页应用中，如何优雅的监听url的变化](https://github.com/forthealllight/blog/issues/37)
+    
     * [手把手教你实现json嵌套对象的范式化和反范式化](https://github.com/forthealllight/blog/issues/12)
     
     * [实现一个完美符合Promise/A+规范的Promise](https://github.com/forthealllight/blog/issues/4)
     
     * [从promise、process.nextTick、setTimeout出发，谈谈Event Loop中的Job queue](https://github.com/forthealllight/blog/issues/5)
-    
-    * [在单页应用中，如何优雅的监听url的变化](https://github.com/forthealllight/blog/issues/37)
     
     * [总结一下ES6/ES7中promise、generator和async/await中的异常捕获方法](https://github.com/forthealllight/blog/issues/16)
     
