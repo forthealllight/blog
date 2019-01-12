@@ -16,7 +16,7 @@
 
 ## 🌱 最新2篇文章
 
-  - [在单页应用中，前端如何优雅的上报性能监控数据](https://github.com/forthealllight/blog/issues/38)
+  - [在单页应用中，如何优雅的上报前端性能数据](https://github.com/forthealllight/blog/issues/38)
 
   - [在单页应用中，如何优雅的监听url的变化](https://github.com/forthealllight/blog/issues/37)
 
@@ -32,7 +32,7 @@
 
     * [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
     
-    * [在单页应用中，前端如何优雅的上报性能监控数据](https://github.com/forthealllight/blog/issues/38)
+    * [在单页应用中，如何优雅的上报前端性能数据据](https://github.com/forthealllight/blog/issues/38)
     
     * [在单页应用中，如何优雅的监听url的变化](https://github.com/forthealllight/blog/issues/37)
     
