@@ -10,15 +10,16 @@
 > * React/Redux/Mobx
 > * Threejs/WebGL
 > * NodeJS
+> * Golang
 > * 构建工具
 > * 其他
 
 
 ## 🌱 最新2篇文章
 
+  - [发布一个npm包，用于监控页面中的所有API请求的状态和结果](https://github.com/forthealllight/blog/issues/40)
+  
   - [在单页应用中，如何优雅的上报前端性能数据](https://github.com/forthealllight/blog/issues/38)
-
-  - [在单页应用中，如何优雅的监听url的变化](https://github.com/forthealllight/blog/issues/37)
 
 
 ## 🌱 历史文章列表
@@ -31,6 +32,8 @@
 * JS/ES6/ES.next
 
     * [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
+    
+    * [发布一个npm包，用于监控页面中的所有API请求的状态和结果](https://github.com/forthealllight/blog/issues/40)
     
     * [在单页应用中，如何优雅的上报前端性能数据据](https://github.com/forthealllight/blog/issues/38)
     
@@ -67,7 +70,7 @@
     * [循序渐进教你实现一个完整的node的EventEmitter模块](https://github.com/forthealllight/blog/issues/21)
     * [nodejs中的子进程，深入解析child_process模块和cluster模块](https://github.com/forthealllight/blog/issues/24)
     
-* golang
+* Golang
 
     * [golang学习笔记（二）—— 深入golang中的协程](https://github.com/forthealllight/blog/issues/36)
     * [golang学习笔记（一）—— golang基础和相关数据结构](https://github.com/forthealllight/blog/issues/30)
