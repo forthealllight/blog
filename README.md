@@ -15,13 +15,14 @@
 > * 其他
 
 
-## 🌱 最新2篇文章 
+## 🌱 最新3篇文章 
+  
+  - [你真的懂switch吗？聊聊switch语句中的块级作用域](https://github.com/forthealllight/blog/issues/44)
   
   - [从Express到Nestjs，谈谈Nestjs的设计思想和使用方法](https://github.com/forthealllight/blog/issues/35)
   
   - [React生态，dva源码阅读](https://github.com/forthealllight/blog/issues/41)
     
-
 
 ## 🌱 历史文章列表
 * Css/Css3
@@ -33,6 +34,8 @@
 * JS/ES6/ES.next
 
     * [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
+    
+    * [你真的懂switch吗？聊聊switch语句中的块级作用域](https://github.com/forthealllight/blog/issues/44)
     
     * [发布一个npm包，用于监控页面中的所有API请求的状态和结果](https://github.com/forthealllight/blog/issues/40)
     
