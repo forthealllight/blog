@@ -17,11 +17,10 @@
 
 ## 🌱 最新3篇文章 
   
-  - [你真的懂switch吗？聊聊switch语句中的块级作用域](https://github.com/forthealllight/blog/issues/44)
+  - [在Typescript项目中，如何优雅的使用ESLint和Prettier](https://github.com/forthealllight/blog/issues/45)
   
   - [从Express到Nestjs，谈谈Nestjs的设计思想和使用方法](https://github.com/forthealllight/blog/issues/35)
   
-  - [React生态，dva源码阅读](https://github.com/forthealllight/blog/issues/41)
     
 
 ## 🌱 历史文章列表
@@ -34,6 +33,8 @@
 * JS/ES6/ES.next
 
     * [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
+    
+    * [在Typescript项目中，如何优雅的使用ESLint和Prettier](https://github.com/forthealllight/blog/issues/45)
     
     * [你真的懂switch吗？聊聊switch语句中的块级作用域](https://github.com/forthealllight/blog/issues/44)
     
