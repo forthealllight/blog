@@ -16,12 +16,11 @@
 
 
 ## 🌱 最新3篇文章 
+
+  - [如何优雅的使用react hooks来进行状态管理](https://github.com/forthealllight/blog/issues/48)
   
   - [在Typescript项目中，如何优雅的使用ESLint和Prettier](https://github.com/forthealllight/blog/issues/45)
-  
-  - [从Express到Nestjs，谈谈Nestjs的设计思想和使用方法](https://github.com/forthealllight/blog/issues/35)
-  
-    
+ 
 
 ## 🌱 历史文章列表
 * Css/Css3
@@ -56,7 +55,8 @@
     
     
 * React/Redux/Mobx/RxJS
-
+    
+    * [如何优雅的使用react hooks来进行状态管理](https://github.com/forthealllight/blog/issues/48)
     * [React生态，dva源码阅读](https://github.com/forthealllight/blog/issues/41)
     * [在React项目中，如何优雅的优化长列表](https://github.com/forthealllight/blog/issues/31)
     * [React-tiny-virtual-list源码阅读](https://github.com/forthealllight/blog/issues/32)
