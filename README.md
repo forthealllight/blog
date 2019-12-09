@@ -19,7 +19,7 @@
   
   - [优雅的学习webgl(1)—从0开始构造你的第一个webgl程序](https://github.com/forthealllight/blog/issues/50)
 
-  - [React Hooks工程实践总结](https://github.com/forthealllight/blog/issues/49)
+  - [优雅的学习webgl(2)—webgl中的着色器和缓冲区](https://github.com/forthealllight/blog/issues/51)
   
   - [在Typescript项目中，如何优雅的使用ESLint和Prettier](https://github.com/forthealllight/blog/issues/45)
  
@@ -77,6 +77,7 @@
 * WebGL
 
     * [优雅的学习webgl(1)—从0开始构造你的第一个webgl程序](https://github.com/forthealllight/blog/issues/50)
+    * [优雅的学习webgl(2)—webgl中的着色器和缓冲区](https://github.com/forthealllight/blog/issues/51)
     
 * Nodejs
 
