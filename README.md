@@ -41,7 +41,7 @@
     
     * [发布一个npm包，用于监控页面中的所有API请求的状态和结果](https://github.com/forthealllight/blog/issues/40)
     
-    * [在单页应用中，如何优雅的上报前端性能数据据](https://github.com/forthealllight/blog/issues/38)
+    * [在单页应用中，如何优雅的上报前端性能数据](https://github.com/forthealllight/blog/issues/38)
     
     * [在单页应用中，如何优雅的监听url的变化](https://github.com/forthealllight/blog/issues/37)
     
