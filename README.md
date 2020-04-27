@@ -17,7 +17,7 @@
 
 ## 🌱 最新3篇文章 
   
-  - [优雅的学习webgl(3)—webgl中的三维图形和矩阵变换](https://github.com/forthealllight/blog/issues/52)
+  - [通过webgl中的纹理贴图来自定义图片间的转场效果](https://github.com/forthealllight/blog/issues/55)
   
   - [优雅的学习webgl(4)—webgl中的投影模型](https://github.com/forthealllight/blog/issues/53)
   
