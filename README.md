@@ -7,6 +7,7 @@
 > * Html/Http
 > * Css/Css3
 > * JS/ES6/ES.next
+> * Typescript
 > * React/Redux/Mobx
 > * Threejs/WebGL
 > * NodeJS
