@@ -17,6 +17,8 @@
 
 ## 🌱 最新3篇文章 
 
+  - [聊一聊Typescript中与this相关的类型定义](https://github.com/forthealllight/blog/issues/63)
+
   - [React hooks中swr的原理和源码解析](https://github.com/forthealllight/blog/issues/61)
 
   - [如何优雅的通过canvas实现一个简单的文本编辑器](https://github.com/forthealllight/blog/issues/60)
@@ -36,8 +38,6 @@
 
     * [前端监控和前端埋点方案设计](https://github.com/forthealllight/blog/issues/23)
     
-    * [在Typescript项目中，如何优雅的使用ESLint和Prettier](https://github.com/forthealllight/blog/issues/45)
-    
     * [你真的懂switch吗？聊聊switch语句中的块级作用域](https://github.com/forthealllight/blog/issues/44)
     
     * [发布一个npm包，用于监控页面中的所有API请求的状态和结果](https://github.com/forthealllight/blog/issues/40)
@@ -54,9 +54,16 @@
     
     * [总结一下ES6/ES7中promise、generator和async/await中的异常捕获方法](https://github.com/forthealllight/blog/issues/16)
     
+    
+* Typescript
+
+    * [在Typescript项目中，如何优雅的使用ESLint和Prettier](https://github.com/forthealllight/blog/issues/45)
+    
+    * [聊一聊Typescript中与this相关的类型定义](https://github.com/forthealllight/blog/issues/63)
+    
     * [聊聊Typescript中的设计模式——装饰器篇(decorators)](https://github.com/forthealllight/blog/issues/33)
     
-    
+
 * React/Redux/Mobx/RxJS
 
     * [React hooks中swr的原理和源码解析](https://github.com/forthealllight/blog/issues/61)
