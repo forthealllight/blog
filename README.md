@@ -18,7 +18,7 @@
 
 ## 🌱 最新3篇文章 
 
-  - [深入浅出浏览器中的ES modules](https://github.com/forthealllight/blog/issues/66)
+  - [Typescript代码整洁之道](https://github.com/forthealllight/blog/issues/67)
 
   - [React hooks中swr的原理和源码解析](https://github.com/forthealllight/blog/issues/61)
 
@@ -59,7 +59,9 @@
     
     
 * Typescript
-
+    
+    * [Typescript代码整洁之道](https://github.com/forthealllight/blog/issues/67)
+    
     * [在Typescript项目中，如何优雅的使用ESLint和Prettier](https://github.com/forthealllight/blog/issues/45)
     
     * [聊一聊Typescript中与this相关的类型定义](https://github.com/forthealllight/blog/issues/63)
