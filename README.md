@@ -20,11 +20,10 @@
 
   - [Typescript代码整洁之道](https://github.com/forthealllight/blog/issues/67)
 
-  - [React hooks中swr的原理和源码解析](https://github.com/forthealllight/blog/issues/61)
+  - [快速高斯模糊算法的原理以及webgl工程实现](https://github.com/forthealllight/blog/issues/58)
 
   - [如何优雅的通过canvas实现一个简单的文本编辑器](https://github.com/forthealllight/blog/issues/60)
   
-  - [通过webgl中的纹理贴图来自定义图片间的转场效果](https://github.com/forthealllight/blog/issues/55)
   
 
 
@@ -97,6 +96,7 @@
     * [优雅的学习webgl(5)—webgl中的光照和反射变换](https://github.com/forthealllight/blog/issues/54)
     * [通过webgl中的纹理贴图来自定义图片间的转场效果](https://github.com/forthealllight/blog/issues/55)
     * [如何优雅的通过canvas实现一个简单的文本编辑器](https://github.com/forthealllight/blog/issues/60)
+    * [快速高斯模糊算法的原理以及webgl工程实现](https://github.com/forthealllight/blog/issues/58)
     
     
 * Nodejs
