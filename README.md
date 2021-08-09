@@ -72,6 +72,7 @@
 
 * React/Redux/Mobx/RxJS
 
+    * [深入浅出svelte.js](https://github.com/forthealllight/blog/issues/71)
     * [React hooks中swr的原理和源码解析](https://github.com/forthealllight/blog/issues/61)
     * [React Hooks工程实践总结](https://github.com/forthealllight/blog/issues/49)
     * [如何优雅的使用react hooks来进行状态管理](https://github.com/forthealllight/blog/issues/48)
