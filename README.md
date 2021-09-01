@@ -18,14 +18,12 @@
 
 ## 🌱 最新3篇文章 
 
-  - [Typescript代码整洁之道](https://github.com/forthealllight/blog/issues/67)
-
+  - [js打包时间缩短90%，bundleless生产环境实践总结](https://github.com/forthealllight/blog/issues/72)
+  
   - [快速高斯模糊算法的原理以及webgl工程实现](https://github.com/forthealllight/blog/issues/58)
 
-  - [如何优雅的通过canvas实现一个简单的文本编辑器](https://github.com/forthealllight/blog/issues/60)
+  - [Typescript代码整洁之道](https://github.com/forthealllight/blog/issues/67)
   
-  
-
 
 ## 🌱 历史文章列表
 * Css/Css3
