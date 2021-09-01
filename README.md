@@ -113,6 +113,7 @@
     
 * 构建工具
 
+    * [js打包时间缩短90%，bundleless生产环境实践总结](https://github.com/forthealllight/blog/issues/72)
     * [Webpack4.0初体验](https://github.com/forthealllight/blog/issues/9)
     * [Webpack中的sourcemap以及如何在生产和开发环境中合理的设置sourcemap的类型](https://github.com/forthealllight/blog/issues/6)
     
