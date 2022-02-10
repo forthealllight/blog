@@ -32,6 +32,8 @@
     
     * [深入浅出浏览器中的ES modules](https://github.com/forthealllight/blog/issues/66)
     
+    * [深入聊一聊__esModule](https://github.com/forthealllight/blog/issues/77)
+    
     * [前端实现弹幕效果的方法总结(包含css3和canvas的实现方式)](https://github.com/forthealllight/blog/issues/17)
    
 * JS/ES6/ES.next
